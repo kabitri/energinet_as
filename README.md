@@ -9,3 +9,5 @@ To analyse:
 4. Regulation down
 5. Price up
 6. Price down
+
+Script 1: variability_analysis
